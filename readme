@@ -1,0 +1,9 @@
+Python program to validate shift swip in details and provide the false records
+
+Input:
+ Two excel files
+1.swipe in records of each person
+2.shift plan
+
+Library needed:
+pandas
