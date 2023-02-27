@@ -9,3 +9,7 @@ How we achieved the objective:
 2) clean the date field by removing the time example 21-02-23 11:00 , 21-02-23 12:00 we clean the date file by removing this time thereby having  21-02-23
 3) now after data cleansing we will group by Date field first and then we will group by cube names
 4) export the extracted data into a new excel sheet.
+
+Libraries required:
+pandas 
+datetime
