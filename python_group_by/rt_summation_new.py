@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 13:56:03 2023
 
-@author: osaic
+@author: kris
 """
 
 import pandas as pd
